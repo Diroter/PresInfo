@@ -1,0 +1,24 @@
+html,body{
+    padding: 0%;
+    margin: 0%;
+}
+
+.testimage {
+    text-align: center;
+    vertical-align: middle;
+    height: 100%;
+    width: 100%;
+    background-image: url("https://wallpaperaccess.com/full/545792.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.testimage .text{
+    color: white;
+    height: fit-content;
+    
+}
+
+.container{
+    height: 45%;
+}
