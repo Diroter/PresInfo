@@ -9,14 +9,12 @@ html,body{
     height: 100%;
     width: 100%;
     background-image: url("https://wallpaperaccess.com/full/545792.jpg");
-    background-size: cover;
+    background-size: 100% 100%;
     background-repeat: no-repeat;
 }
 
 .testimage .text{
     color: white;
-    height: fit-content;
-    
 }
 
 .container{
